@@ -29,3 +29,17 @@ A powerful AI-driven face recognition system designed to identify football playe
 | Git        | Version control |
 
 ---
+## 🛠️ Installation & Setup
+
+### 1️⃣ **Clone the Repository**
+```sh
+git clone https://github.com/yourusername/Face-Recognition-using-LLaMA-4-Groq-API-
+```
+### 2️⃣ Install Dependencies
+```
+pip install -r requirements.txt
+```
+### 3️⃣ Run the Application
+```
+python app.py
+```
