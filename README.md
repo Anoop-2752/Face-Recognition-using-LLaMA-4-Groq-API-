@@ -12,7 +12,7 @@ A powerful AI-driven face recognition system designed to identify football playe
 - 🤖 **Natural Language Response** with LLaMA-4 for contextual analysis.
 - ⚡ **Groq API Integration** for high-speed model inference.
 - 📸 Upload football player images and identify them from the database.
-- 📊 Clean UI built with **Streamlit** for real-time interaction.
+- 📊 Clean UI built with **Flask** for real-time interaction.
 
 ---
 
