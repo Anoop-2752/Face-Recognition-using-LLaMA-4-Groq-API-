@@ -18,15 +18,16 @@ A powerful AI-driven face recognition system designed to identify football playe
 
 ## 🧰 Tech Stack
 
-| Technology | Description |
-|-----------|-------------|
-| Python     | Core programming language |
-| OpenCV     | Image processing and face detection |
-| face_recognition | Face encoding and comparison |
-| LLaMA-4    | LLM used for generating contextual outputs |
-| Groq API   | High-performance inference backend |
-| Flask  | Lightweight and interactive frontend |
-| Git        | Version control |
+| Technology     | Description                                      |
+|----------------|--------------------------------------------------|
+| Python         | Core programming language                        |
+| OpenCV         | Image processing and face detection              |
+| face_recognition | Face encoding and comparison                   |
+| LLaMA-4        | LLM used for generating contextual outputs       |
+| Groq API       | High-performance inference backend               |
+| Flask      | Lightweight and interactive frontend             |
+| Docker         | Containerization for consistent deployment       |
+| Git            | Version control                                  |
 
 ---
 ## 🛠️ Installation & Setup
